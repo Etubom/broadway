@@ -1,0 +1,17 @@
+.body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.secone{
+  background-image: url(../images/flatiron-building.png);
+}
+
+.secthree{
+background-image: url(../images/flatiron-building.png);
+}
+
+a{
+  font-size: 18px;
+  color: white;
+}
