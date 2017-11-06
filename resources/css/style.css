@@ -1,6 +1,7 @@
 .body{
   text-align: center;
   font-family: Helvetica;
+  font-size: 14px;
 }
 
 .secone{
@@ -9,6 +10,38 @@
 
 .secthree{
 background-image: url(../images/flatiron-building.png);
+}
+
+#secfive{
+  background-color: dimgray;
+  text-align: left;
+}
+
+.sfcopy{
+  font-size: 11px;
+  color: white;
+}
+
+.secone h1{
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.sectwo h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.sectwo h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.secthree h2{
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
 
 a{
